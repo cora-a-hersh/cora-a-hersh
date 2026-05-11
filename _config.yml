@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Cora Hersh"
 title_separator          : "-"
 name                     : &name "Cora Hersh"
@@ -23,7 +23,7 @@ repository               : "cora-a-hersh/cora-a-hersh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "BGCargo.jpg"
   name             : "Cora Hersh"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Investigator in Physical Oceanography"
